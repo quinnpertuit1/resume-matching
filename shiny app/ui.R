@@ -1,3 +1,4 @@
+# devtools::install_github("quinnpertuit1/resume-matching/resmatch")
 
 shinyUI(fluidPage( theme = "bootstrap.css",
     #tags$head(tags$script(src="function.js")),
